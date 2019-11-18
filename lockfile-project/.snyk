@@ -12,16 +12,14 @@ patch:
   SNYK-JS-LODASH-450202:
     - tap > nyc > istanbul > handlebars > async > lodash:
         patched: '2019-11-18T10:53:53.846Z'
+    - snyk > snyk-nuget-plugin > dotnet-deps-parser > lodash:
+        patched: '2019-11-18T11:28:25.165Z'
   'npm:mime:20170907':
     - tap > codecov.io > request > form-data > mime:
         patched: '2019-11-18T10:53:53.846Z'
-    - tap > codecov.io > request > form-data > mime:
-        patched: '2019-11-18T11:26:20.871Z'
   'npm:request:20160119':
     - tap > codecov.io > request:
         patched: '2019-11-18T10:53:53.846Z'
   'npm:tunnel-agent:20170305':
     - tap > codecov.io > request > tunnel-agent:
         patched: '2019-11-18T10:53:53.846Z'
-    - tap > codecov.io > request > tunnel-agent:
-        patched: '2019-11-18T11:26:20.871Z'
