@@ -45,7 +45,7 @@
     "adm-zip": "0.4.11",
     "file-type": "^8.1.0",
     "@google-cloud/promisify": "0.3.0",
-    "snyk": "^1.248.0"
+    "snyk": "^1.465.0"
   },
   "devDependencies": {
     "browserify": "^13.1.1"
